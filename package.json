@@ -1,0 +1,22 @@
+{
+  "name": "hapi-statics",
+  "version": "0.0.1",
+  "description": "hapi-statics",
+  "main": "lib/index.mjs",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsaget/hapi-statics.git"
+  },
+  "author": "jsaget",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsaget/hapi-statics/issues"
+  },
+  "homepage": "https://github.com/jsaget/hapi-statics#readme",
+  "dependencies": {
+    "glob": "^7.1.6"
+  }
+}

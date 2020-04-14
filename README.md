@@ -1,0 +1,2 @@
+# hapi-statics
+hapi-statics

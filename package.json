@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jsaget/hapi-statics#readme",
   "dependencies": {
+    "@hapi/joi": "^17.1.1",
     "glob": "^7.1.6"
   }
 }
